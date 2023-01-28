@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce111a3b.css",
-    "main.js": "/static/js/main.f8881fdb.js",
-    "static/media/nobody.jpg": "/static/media/nobody.2a967c399201eda21e08.jpg",
-    "static/media/ff_tokyo_drift.jpg": "/static/media/ff_tokyo_drift.b2f2f7444a7823d99c64.jpg",
-    "static/media/iterview.jpg": "/static/media/iterview.4acaf772836e226ee2e1.jpg",
-    "static/media/up_alt_av.jpg": "/static/media/up_alt_av.d1e30bb46faa136e9299.jpg",
-    "static/media/hatefull_eight.jpg": "/static/media/hatefull_eight.d1f3b42d1946745c611f.jpg",
-    "static/media/nomadland.jpg": "/static/media/nomadland.ba2160e2209e6519cdfe.jpg",
-    "static/media/fundo.png": "/static/media/fundo.3e7e8ab2c05744d69f3d.png",
-    "static/media/pets.jpg": "/static/media/pets.c99666adfd21e3f9c7b1.jpg",
-    "static/media/mad_max.jpg": "/static/media/mad_max.a1420d7c5d4c6bc641b3.jpg",
-    "index.html": "/index.html",
-    "main.ce111a3b.css.map": "/static/css/main.ce111a3b.css.map",
-    "main.f8881fdb.js.map": "/static/js/main.f8881fdb.js.map"
+    "main.css": "/environbit/static/css/main.1918cd7d.css",
+    "main.js": "/environbit/static/js/main.d72e7446.js",
+    "static/media/nobody.jpg": "/environbit/static/media/nobody.2a967c399201eda21e08.jpg",
+    "static/media/ff_tokyo_drift.jpg": "/environbit/static/media/ff_tokyo_drift.b2f2f7444a7823d99c64.jpg",
+    "static/media/iterview.jpg": "/environbit/static/media/iterview.4acaf772836e226ee2e1.jpg",
+    "static/media/up_alt_av.jpg": "/environbit/static/media/up_alt_av.d1e30bb46faa136e9299.jpg",
+    "static/media/hatefull_eight.jpg": "/environbit/static/media/hatefull_eight.d1f3b42d1946745c611f.jpg",
+    "static/media/nomadland.jpg": "/environbit/static/media/nomadland.ba2160e2209e6519cdfe.jpg",
+    "static/media/fundo.png": "/environbit/static/media/fundo.3e7e8ab2c05744d69f3d.png",
+    "static/media/pets.jpg": "/environbit/static/media/pets.c99666adfd21e3f9c7b1.jpg",
+    "static/media/mad_max.jpg": "/environbit/static/media/mad_max.a1420d7c5d4c6bc641b3.jpg",
+    "index.html": "/environbit/index.html",
+    "main.1918cd7d.css.map": "/environbit/static/css/main.1918cd7d.css.map",
+    "main.d72e7446.js.map": "/environbit/static/js/main.d72e7446.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce111a3b.css",
-    "static/js/main.f8881fdb.js"
+    "static/css/main.1918cd7d.css",
+    "static/js/main.d72e7446.js"
   ]
 }
