@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/environbit/static/css/main.1918cd7d.css",
+    "main.css": "/environbit/static/css/main.74d6f7ef.css",
     "main.js": "/environbit/static/js/main.d72e7446.js",
     "static/media/nobody.jpg": "/environbit/static/media/nobody.2a967c399201eda21e08.jpg",
     "static/media/ff_tokyo_drift.jpg": "/environbit/static/media/ff_tokyo_drift.b2f2f7444a7823d99c64.jpg",
@@ -12,11 +12,11 @@
     "static/media/pets.jpg": "/environbit/static/media/pets.c99666adfd21e3f9c7b1.jpg",
     "static/media/mad_max.jpg": "/environbit/static/media/mad_max.a1420d7c5d4c6bc641b3.jpg",
     "index.html": "/environbit/index.html",
-    "main.1918cd7d.css.map": "/environbit/static/css/main.1918cd7d.css.map",
+    "main.74d6f7ef.css.map": "/environbit/static/css/main.74d6f7ef.css.map",
     "main.d72e7446.js.map": "/environbit/static/js/main.d72e7446.js.map"
   },
   "entrypoints": [
-    "static/css/main.1918cd7d.css",
+    "static/css/main.74d6f7ef.css",
     "static/js/main.d72e7446.js"
   ]
 }
