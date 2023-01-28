@@ -1,0 +1,11 @@
+@import '../../style/variables.scss';
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+
+    border-top: 1px solid $light-green-color;
+    border-bottom: 1px solid $light-green-color;
+    padding: 20px 0;
+}

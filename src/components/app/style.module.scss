@@ -1,0 +1,12 @@
+.app_body {
+    min-height: 100vh;
+
+    background-image: url(../../resources/fundo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    .wrapper {
+        width: calc(100% - 200px);
+        margin: 0 auto;
+    }
+}

@@ -1,0 +1,37 @@
+@import '../../style/variables.scss';
+
+.container {
+    .btnBack {
+        font-size: 22px;
+        font-weight: 700;
+        border: none;
+        color: $green-color;
+        background-color: inherit;
+        cursor: pointer;
+        padding: 15px;
+
+        span {
+            padding-left: 10px;
+        }
+    }
+
+    .card {
+        display: flex;
+        gap: 40px;
+        
+        img {
+            min-width: 400px;
+        }
+
+        div {
+            line-height: 35px;
+            font-size: 18px;
+
+            p span {
+                font-weight: 700;
+                color: $green-color;
+            }
+        
+        }
+    }
+}

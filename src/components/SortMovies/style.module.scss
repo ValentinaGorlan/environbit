@@ -1,0 +1,51 @@
+@import '../../style/variables.scss';
+
+.container {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: nowrap;
+
+    .resetFilters {
+        font-size: 23px;
+        font-weight: 700;
+        border: none;
+        background-color: inherit;
+        cursor: pointer;
+        padding: 15px;
+
+        path {
+            stroke: $green-color;
+        }
+    }
+
+    .select {
+        position: relative; 
+        width: 200px;
+        font-size: 22px;
+        padding: 10px 10px 0 0;
+
+        .control {
+            display: flex;
+            gap: 10px;
+        }
+
+        .menu {
+            position: absolute;
+            background-color: $light-green-color;
+            font-size: 18px;
+            font-weight: 500;
+            top: 42px;
+            z-index: 99;
+            border-radius: 4px; 
+            cursor: pointer;
+
+            div {
+                padding: 10px 20px;
+
+                &:hover {
+                    background-color: $green-color;
+                }
+            }
+        }
+    }
+}
